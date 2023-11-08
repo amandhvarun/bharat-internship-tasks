@@ -1,5 +1,4 @@
-# BHARAT_INTERN_TASK
-
+# BHARAT_INTERN_TASKS
 
 VIRTUAL_FULLSTACK_INTERNSHIP_BY_BHARAT INTERN
 
@@ -18,7 +17,7 @@ Description:
 
 Content Management Tool is a web-based content management system developed as Task 1 for the Bharat Intern internship program. It allows users to manage and publish contents easily. It allows users to add text, images and videos required to create a blog.
 
-Tech Stack Used
+Tech Stack Used are :
 
 
 HTML
@@ -30,7 +29,7 @@ CSS
 JavaScript
 
 
-................................................................................................................................
+=====================================================================================================================================================
 
 
 TASK 2: Project Management Tool
@@ -51,8 +50,7 @@ Project Management Tool is a web-based Tasks management system developed as Task
 Multiple users can also be added and deleted from the system.
 A chatbox functionality is also available using which users can chat with each other.
 
-Tech Stack Used
-......
+Tech Stack Used are :
 
 
 HTML
